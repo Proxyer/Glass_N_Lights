@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rimatomics -->
+
+  <GLWindowRimatomics.label>対放射線窓</GLWindowRimatomics.label>
+  <GLWindowRimatomics.description>劣化ウランで補強された非常に頑丈な窓で、向こう側が透けて見えますが放射線を完全に遮断します。</GLWindowRimatomics.description>
+
+</LanguageData>
