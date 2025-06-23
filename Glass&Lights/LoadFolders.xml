@@ -25,5 +25,6 @@
 	<v1.6>
 		<li>/</li>
 		<li>v1.6/Core</li>
+		<li IfModActive="Dubwise.Rimatomics">Mods/Rimatomics</li>
 	</v1.6>
 </loadFolders>
