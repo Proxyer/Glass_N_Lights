@@ -187,7 +187,7 @@
 	
 	<!-- Hidden objects (See Glass&Lights_Patches.xml patch operations) -->
 	
-	<ThingDef ParentName="BuildingBase" Name="GLWindowRimatomics">
+	<ThingDef MayRequire="Dubwise.Rimatomics" ParentName="BuildingBase" Name="GLWindowRimatomics">
 		<defName>GLWindowRimatomics</defName>
 		<label>DU Window</label>
 		<thingClass>Building</thingClass>
